@@ -331,6 +331,7 @@
       "author": "Mxucc",
       "version": "0.3.1372",
       "repository": "https://github.com/Mxucc/cpa-account-config-manager",
+      "logo": "https://raw.githubusercontent.com/Mxucc/cpa-account-config-manager/main/internal/manager/cpama.svg",
       "homepage": "https://github.com/Mxucc/cpa-account-config-manager",
       "license": "MIT",
       "tags": [
