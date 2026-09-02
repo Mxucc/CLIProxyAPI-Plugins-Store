@@ -329,7 +329,7 @@
       "name": "CPA Account Config Manager",
       "description": "Manages CLIProxyAPI account configurations with redacted account inspection, multi-format import and export, usage visibility, safe batch edits, persistent defaults, and in-plugin account CRUD.",
       "author": "Mxucc",
-      "version": "0.3.1340",
+      "version": "0.3.1372",
       "repository": "https://github.com/Mxucc/cpa-account-config-manager",
       "homepage": "https://github.com/Mxucc/cpa-account-config-manager",
       "license": "MIT",
